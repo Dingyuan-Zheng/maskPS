@@ -4,7 +4,7 @@ This repository contains the dataset we used in our paper "Segmentation Mask Gui
 The dataset will be released once the paper is accepted.
 
 ## PRW Dataset
-The mask annotations for the selected 495 images from [PRW](https://pan.baidu.com/s/1-S_a-FlAHZqTT6i-stouWw) dataset can be found here, the fetch code is `5dno`.
+The mask annotations for the selected 495 images from [PRW](https://pan.baidu.com/s/16G7ewFICegRRBBp5En69MQ) dataset can be found here, the fetch code is `yt5i`.
 
 ## CUHK-SYSU Dataset
-The mask annotations for the selected 1,833 images from [CHUK-SYSU](www.baidu.com) dataset can be found here, the fetch code is `1234`.   
+The mask annotations for the selected 1,833 images from [CHUK-SYSU](https://pan.baidu.com/s/1e4_Lsz7tCrUYBDIWYn0mUA) dataset can be found here, the fetch code is `sd27`.   
