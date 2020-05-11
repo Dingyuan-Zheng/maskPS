@@ -1,5 +1,5 @@
 # maskPS
-This repository contains the dataset we used in our paper "Segmentation Mask Guided End-to-End Person Search"
+This repository contains the datasets we used in our paper "Segmentation Mask Guided End-to-End Person Search"
 
 Signal Processing: Image Communication (Articles in press)
 
