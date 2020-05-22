@@ -1,7 +1,7 @@
 # maskPS
 This repository contains the datasets we used in our paper "Segmentation Mask Guided End-to-End Person Search"
 
-Signal Processing: Image Communication (Articles in press)
+Signal Processing: Image Communication
 
 Our work is based on [OIM](https://github.com/ShuangLI59/person_search), [Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch) and [Mask R-CNN](https://github.com/facebookresearch/maskrcnn-benchmark).
 
